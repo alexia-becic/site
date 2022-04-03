@@ -156,10 +156,7 @@ p.texte {
     font-weight: bold;
     animation: 3s ease-in 1s slidein;
 }
-@keyframes slidein {
-  from { margin-left: 40%; }
-  to   { margin-left:0; }
-}
+
 p.texte1 {
     float: right;
     width: 30%;
