@@ -98,6 +98,7 @@ section#menu {
 	background-color: #F1EEF2;
 	padding: 1% 0;
 	position: fixed;
+	display: inline-flex;
 }
 
 section.footer{
@@ -110,6 +111,7 @@ section.footer{
 }
 img.nom {
     width:10%;
+z-index: 1;
 }
 
 div.titre {
